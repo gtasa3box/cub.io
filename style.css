@@ -141,7 +141,7 @@ nav a:hover {
 	border-bottom: 3px solid #fff;
 	position: relative;
 	z-index: 2;
-	background-image: inherit;
+	background: inherit;
 }
 .information {
 	width: 50%;
@@ -164,7 +164,7 @@ nav a:hover {
 .treeblock {
 	position: relative;
 	z-index: 2;
-	background-image: inherit;
+	background: inherit;
 	display: flex;
 	justify-content: center;
 	padding: 100px 0;
@@ -187,7 +187,7 @@ nav a:hover {
 }
 .imagecar {
 	width: 30%;
-	height: 200px;
+	padding-bottom: 20%;
 	background-repeat: no-repeat;
 	background-size: contain;
 	margin: 5px;
